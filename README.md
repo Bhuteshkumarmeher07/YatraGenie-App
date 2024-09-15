@@ -12,7 +12,7 @@
 
 ## 🚀 Demo
 
-Check out the live demo of YatraGenie [here](https://example.com) *(replace with actual link if available)*.
+Check out the live demo of YatraGenie [here](https://example.com)
 
 ## 🛠️ Installation
 
@@ -92,5 +92,3 @@ For any inquiries or support, you can reach out to:
 - **React** for building the user interface.
 
 ---
-
-Feel free to adjust the content and links to fit your needs!
