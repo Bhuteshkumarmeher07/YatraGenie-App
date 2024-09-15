@@ -82,7 +82,7 @@ This project is licensed under the [MIT License](LICENSE) - see the file for det
 
 For any inquiries or support, you can reach out to:
 
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile) 👔
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/bhutesh-kumar-meher-474992231/) 👔
 - **Instagram**: [Your Instagram](https://www.linkedin.com/in/bhutesh-kumar-meher-474992231/) 📸
 
 ## 💡 Acknowledgements
