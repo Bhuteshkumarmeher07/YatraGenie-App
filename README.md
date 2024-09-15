@@ -12,7 +12,7 @@
 
 ## 🚀 Demo
 
-Check out the live demo of YatraGenie [here](https://example.com)
+Check out the live demo of YatraGenie [here](https://yatra-genie-app.vercel.app/)
 
 ## 🛠️ Installation
 
@@ -66,7 +66,7 @@ Check out the live demo of YatraGenie [here](https://example.com)
 
 ## 🤝 Contributing
 
-We welcome contributions to YatraGenie! To contribute:
+I welcome contributions to YatraGenie! To contribute:
 
 1. **Fork the repository.**
 2. **Create a new branch** for your feature or bug fix.
